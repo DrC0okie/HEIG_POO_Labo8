@@ -1,0 +1,10 @@
+
+Labo-08/.idea/
+
+*.class
+
+*.iml
+
+Labo-08/target/
+
+.idea/
